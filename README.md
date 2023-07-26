@@ -1,4 +1,4 @@
-# blank_page - Continuous Writing Challenge
+# blank_page - continuous writing challenge
 Welcome to the blank_page, a unique online text editor designed to help writers overcome writer's block and encourage continuous writing. This project aims to offer an engaging and fun experience that pushes writers to keep their creative juices flowing.
 
 ## Introduction
